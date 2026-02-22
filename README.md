@@ -145,7 +145,3 @@ PRE_SPIKE_WINDOW_MINUTES = 30     # Lookback window
 ## License
 
 MIT License
-
-## Author
-
-[Your Name]
